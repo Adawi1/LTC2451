@@ -1,0 +1,19 @@
+{
+    "name": "LTC2451",
+  "version": "1.0.0",
+    "frameworks": "*",
+    "license": "CC",
+    "keywords": "LTC2451, I2C, ADC, 16-BIT",
+    "description": "LTC2451 Driver (Ultra-Tiny, 16-Bit ∆∑ ADC with I2C Interface)",
+    "downloadUrl": "https://github.com/",
+    "authors":
+    {
+            "name": "Khaleel Adawy",
+            "maintainer": true
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/"
+    }
+}
